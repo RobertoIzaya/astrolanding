@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Farm Land 1",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere, tempore cupiditate. Ipsa, quo! Provident fugit sunt perferendis? Fugit harum aspernatur ea perspiciatis, iste expedita magnam mollitia sed! Enim alias perspiciatis eos a laborum similique, porro quae atque pariatur soluta ed doloribus.",
+        "image": "images/bitcoin.svg"
+       
+    },
+    {
+        "title": "Farm Land 2",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere, tempore cupiditate. Ipsa, quo! Provident fugit sunt perferendis? Fugit harum aspernatur ea perspiciatis, iste expedita magnam mollitia sed! Enim alias perspiciatis eos a laborum similique, porro quae atque pariatur soluta ed doloribus.",
+        "image": "images/bitcoin.svg"
+    },
+    {
+        "title": "Farm Land 3",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere, tempore cupiditate. Ipsa, quo! Provident fugit sunt perferendis? Fugit harum aspernatur ea perspiciatis, iste expedita magnam mollitia sed! Enim alias perspiciatis eos a laborum similique, porro quae atque pariatur soluta ed doloribus.",
+        "image": "images/bitcoin.svg"
+    }
+
+]
